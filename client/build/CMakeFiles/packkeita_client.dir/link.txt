@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/packkeita_client.dir/src/main.cpp.o -o packkeita_client  /usr/lib/x86_64-linux-gnu/libcurl.so -larchive 

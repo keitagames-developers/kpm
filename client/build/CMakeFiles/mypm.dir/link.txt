@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/mypm.dir/src/main.cpp.o -o mypm  /usr/lib/x86_64-linux-gnu/libcurl.so -larchive 
